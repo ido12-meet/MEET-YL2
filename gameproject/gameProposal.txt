@@ -1,0 +1,3 @@
+Project Proposel:
+a ball game where the player is a ball and he moves it by tilting his phone.
+the player will need to avoid touching the obsticles that are in its way and stay alive as long as it can.
